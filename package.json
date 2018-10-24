@@ -1,0 +1,25 @@
+{
+  "name": "javascript-design-patterns",
+  "version": "1.0.0",
+  "description": "A collection of examples of various design patterns written in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./$DESIGN_PATTERN/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babzcraig/javascript-design-patterns.git"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Babs Craig",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/babzcraig/javascript-design-patterns/issues"
+  },
+  "homepage": "https://github.com/babzcraig/javascript-design-patterns#readme",
+  "dependencies": {
+    "nodemon": "^1.18.4"
+  }
+}
