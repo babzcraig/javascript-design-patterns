@@ -10,7 +10,24 @@ Each folder contains a small app which illustrates a design pattern. The folders
 
 You can find articles walking through each design pattern on my Medium. Currently the first article on the **Factory Pattern** is a work in progress but will be completed soon. As I add more articles, I'll list the links below:
 
+### Creational Design Patterns
 - Factory Pattern - [Link](https://medium.com/p/5f135e881192/edit)
+
+### Behavioural Design Patterns
+- Publisher/Subscriber Pattern - TBD
+- Strategy Pattern - TBD
+- Observer Pattern - TBD
+- Chain of Responsibility Pattern - TBD
+- Mediator Pattern - TBD
+- Iterator Pattern - TBD
+
+### Structural Design Patterns
+- Facade Pattern - TBD
+- Decorator Pattern - TBD
+- Adapter Pattern - TBD
+- Composite Pattern - TBD
+- Proxy Pattern - TBD
+
 
 ## To run the files:
 
