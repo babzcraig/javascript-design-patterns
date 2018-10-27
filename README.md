@@ -1,4 +1,4 @@
-# Design Pattern In Javascript
+# Design Patterns In Javascript
 
 Design Patterns can help us write more efficient, maintainable and clearer code. They're time tested solutions to common problems in software design. I've recently taken a closer interest in design patterns and decided to document the types of design patterns I've come across, as they apply specifically to Javascript. A lot of the examples out there are pre-ES2015 and I thought it would be nice to redo them in more mordern syntax.
 
