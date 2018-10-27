@@ -4,7 +4,8 @@
   "description": "A collection of examples of various design patterns written in Javascript",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon ./$DESIGN_PATTERN/index.js"
+    "start": "node ./$PATTERN/index.js",
+    "start-dev": "nodemon ./$PATTERN/index.js"
   },
   "repository": {
     "type": "git",
