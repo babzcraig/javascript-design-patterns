@@ -1,15 +1,17 @@
-const mediaFactory = require("./mediaFactory");
+const gadgetFactory = require("./gadgetFactory");
 
-const myVideo = mediaFactory.createMedia("Video", {
-  length: 3.5,
-  name: "My video"
+const myLaptop = gadgetFactory.createGadget("Laptop", {
+  ram: 8,
+  ssd: 256,
+  name: "Bab's MacBook Pro"
 });
 
-const myImage = mediaFactory.createMedia("Image", {
-  width: 100,
-  height: 100,
-  name: "My image"
+const myTablet = gadgetFactory.createGadget("Tablet", {
+  ram: 4,
+  hdd: 128,
+  network: "4G",
+  name: "Bab's iPad"
 });
 
-console.log(myVideo);
-console.log(myImage);
+console.log(myLaptop);
+console.log(myTablet);
