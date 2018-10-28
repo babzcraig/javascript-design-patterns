@@ -4,16 +4,18 @@ Design Patterns can help us write more efficient, maintainable and clearer code.
 
 Please note that not all examples have been converted fully to ES6. It is a work in progress and I'll be refactoring the code as I progress.
 
-Each folder contains a small app which illustrates a design pattern. The folders are named after the design patterns they illustrate.
+Each folder contains a small app which illustrates a design pattern. The folders are named after the design patterns they illustrate. The samples are simplistic and intended only to illustrate the features of each pattern.
 
 ## Walkthrough
 
-You can find articles walking through each design pattern on my Medium. Currently the first article on the **Factory Pattern** is a work in progress but will be completed soon. As I add more articles, I'll list the links below:
+You can find articles walking through each design pattern on my Medium. Currently the first article on the **Factory Pattern** is up. As I add more articles, I'll list the links below:
 
 ### Creational Design Patterns
-- Factory Pattern - [Link](https://medium.com/p/5f135e881192/edit)
+
+- Factory Pattern - [Link](https://medium.com/@thebabscraig/javascript-design-patterns-part-1-the-factory-pattern-5f135e881192)
 
 ### Behavioural Design Patterns
+
 - Publisher/Subscriber Pattern - TBD
 - Strategy Pattern - TBD
 - Observer Pattern - TBD
@@ -22,12 +24,12 @@ You can find articles walking through each design pattern on my Medium. Currentl
 - Iterator Pattern - TBD
 
 ### Structural Design Patterns
+
 - Facade Pattern - TBD
 - Decorator Pattern - TBD
 - Adapter Pattern - TBD
 - Composite Pattern - TBD
 - Proxy Pattern - TBD
-
 
 ## To run the files:
 
