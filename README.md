@@ -16,7 +16,7 @@ You can find articles walking through each design pattern on my Medium. Currentl
 
 ### Behavioural Design Patterns
 
-- Publisher/Subscriber Pattern - TBD
+- Publisher/Subscriber Pattern - [Link](https://medium.com/@thebabscraig/javascript-design-patterns-part-2-the-publisher-subscriber-pattern-8fe07e157213)
 - Strategy Pattern - TBD
 - Observer Pattern - TBD
 - Chain of Responsibility Pattern - TBD
